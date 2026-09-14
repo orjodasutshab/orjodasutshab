@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Orjo Das Utshab banner" width="100%" />
+  <img src="./bunner.png" alt="Orjo Das Utshab banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Orjo Das Utshab</h1>
