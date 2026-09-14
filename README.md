@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./bunner.png" alt="Orjo Das Utshab banner" width="100%" />
+  <img src="./Banner.png" alt="Orjo Das Utshab banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Orjo Das Utshab</h1>
@@ -30,6 +30,7 @@ Kaptai, Chattogram-এ। ওয়েব ডেভেলপমেন্টে�
 - 🎯 Problem Solver — বাস্তব সমস্যা সমাধান করতে ভালোবাসি
 - ☕ প্রতিদিন একটু একটু করে আরও ভালো হওয়ার চেষ্টা করি
 - 🔭 বর্তমানে কাজ করছি **TypeScript** ভিত্তিক প্রজেক্ট নিয়ে (website-bazer, BRICK-LUXURY-)
+- 📍 Kaptai, Chattogram, Bangladesh
 - 📫 যোগাযোগ করুন: **orjodasutshab@gmail.com**
 
 ## 🎯 Goal
@@ -56,18 +57,6 @@ Kaptai, Chattogram-এ। ওয়েব ডেভেলপমেন্টে�
 <img src="https://img.shields.io/badge/Social_Media_Marketing-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
-
----
-
-## 🚀 Projects
-
-- **[Marceant-App](https://github.com/orjodasutshab/Marceant-App)** — HTML দিয়ে বানানো প্রজেক্ট
-- **[website-bazer](https://github.com/orjodasutshab/website-bazer)** — TypeScript ভিত্তিক ওয়েবসাইট প্রজেক্ট
-- **[Digital-Shop-TM](https://github.com/orjodasutshab/Digital-Shop-TM)** — HTML দিয়ে বানানো ডিজিটাল শপ প্রজেক্ট
-- **[Good-Panda](https://github.com/orjodasutshab/Good-Panda)** — HTML প্রজেক্ট
-- **[BRICK-LUXURY-](https://github.com/orjodasutshab/BRICK-LUXURY-)** — TypeScript প্রজেক্ট
-
-<!-- প্রতিটা প্রজেক্টের বর্ণনা আসল ডিটেইলস দিয়ে বদলে নিন -->
 
 ---
 
