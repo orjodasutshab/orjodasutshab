@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- ================================================= --> <!-- FINAL PROFILE README — orjodasutshab --> <!-- ================================================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Hi%20There,%20I'm%20Orjo%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="banner" /> </p> <h1 align="center">Orjo Das Utshab</h1> <h3 align="center">🚀 Aspiring Web Developer | IT Support Specialist | Digital Marketing Enthusiast</h3> <p align="center"> 📍 Kaptai, Chattogram, Bangladesh &nbsp;|&nbsp; ✉️ orjodasutshab@gmail.com </p> <p align="center"> <a href="https://www.linkedin.com/in/orjodasutshab/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://x.com/OrjoDasUtshab" target="_blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/> </a> <a href="https://www.instagram.com/orjodasutshab/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://www.facebook.com/orjodasutshab/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="mailto:orjodasutshab@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
+👋 About Me
 
-<!--
-**orjodasutshab/orjodasutshab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+আমি Orjo, একজন Aspiring Web Developer এবং CST (Computer Science & Technology) স্টুডেন্ট, বর্তমানে BSPI-তে পড়ছি। ওয়েব ডেভেলপমেন্টের পাশাপাশি IT সাপোর্ট এবং ডিজিটাল মার্কেটিং নিয়েও কাজ করতে ভালোবাসি। ক্লিন, রেসপন্সিভ এবং ইউজার-ফ্রেন্ডলি ওয়েবসাইট বানানো এবং নতুন টেকনোলোজি শেখাটাই আমার সবচেয়ে বড় আগ্রহের জায়গা।
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 বর্তমানে কাজ করছি TypeScript ভিত্তিক প্রজেক্ট নিয়ে (website-bazer, BRICK-LUXURY-)
+🌱 শিখছি আধুনিক ফ্রন্টএন্ড ওয়ার্কফ্লো ও বেস্ট প্র্যাকটিস
+💬 জিজ্ঞেস করতে পারেন HTML, CSS, JavaScript, TypeScript, Digital Marketing নিয়ে
+⚡ ফান ফ্যাক্ট: শেষ বছরে GitHub-এ 768+ কন্ট্রিবিউশন!
+🛠️ Skills
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,figma,canva" alt="skills" /> </p>
+📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=orjodasutshab&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orjodasutshab&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=orjodasutshab&theme=tokyonight&hide_border=true" alt="streak stats" /> </p>
+📌 Featured Projects
+<p align="center"> <a href="https://github.com/orjodasutshab/Marceant-App"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=orjodasutshab&repo=Marceant-App&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/orjodasutshab/website-bazer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=orjodasutshab&repo=website-bazer&theme=tokyonight&hide_border=true" /> </a> </p> <p align="center">⭐️ From <a href="https://github.com/orjodasutshab">orjodasutshab</a></p>
