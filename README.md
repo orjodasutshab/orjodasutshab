@@ -1,82 +1,85 @@
 <div align="center">
 
-<img src="./Banner.png" alt="Orjo Das Utshab — Developer Banner" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1d4ed8,70:06b6d4,100:7c3aed&height=210&section=header&text=ORJO%20DAS%20UTSHAB&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=WEB%20DEVELOPMENT%20%7C%20IT%20SUPPORT%20%7C%20DIGITAL%20MARKETING&descSize=14&descAlignY=58" alt="Animated gradient header" />
 
-# Hi, I'm Orjo Das Utshab 👋
-
-### Aspiring Web Developer · IT Support Enthusiast · Digital Marketing Enthusiast
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Web+Developer;Building+and+learning+every+day;IT+Support+%7C+Digital+Marketing;Turning+ideas+into+web+experiences" alt="Animated typing introduction" /></a>
 
 <p>
-  <a href="mailto:orjodasutshab@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/orjodasutshab"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/orjodasutshab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/orjodasutshab"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:orjodasutshab@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-📍 Kaptai, Chattogram, Bangladesh
+<img src="https://komarev.com/ghpvc/?username=orjodasutshab&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm **Orjo Das Utshab**, a Computer Science & Technology student at **Bangladesh Sweden Polytechnic Institute (BSPI)**. I'm building my skills in web development while exploring IT support and digital marketing.
+Hey! I'm **Orjo Das Utshab**, an aspiring web developer from **Kaptai, Chattogram, Bangladesh**. I'm developing my skills in web development while exploring IT support and digital marketing. I enjoy learning by building projects, experimenting with new tools, and improving the details that make websites useful and easy to use.
 
-I enjoy learning by building projects, improving user experiences, and finding practical ways to use technology to solve problems.
+- 🌐 Focused on responsive, user-friendly web experiences.
+- 💻 Learning and practicing **HTML, CSS, JavaScript, and TypeScript**.
+- 🧰 Exploring **Git, GitHub, VS Code**, and IT support workflows.
+- 📈 Interested in **SEO, content, and digital marketing**.
+- 🚀 Building and improving personal web projects.
+- 🤝 Always happy to learn, collaborate, and receive constructive feedback.
 
-- 🌐 Interested in creating clean, responsive websites.
-- 💻 Learning and working with HTML, CSS, JavaScript, and TypeScript.
-- 🧰 Exploring Git, GitHub, developer tools, and IT support.
-- 📈 Interested in SEO, social media, and digital marketing.
-- 🚀 Currently exploring projects including **website-bazer** and **BRICK-LUXURY**.
-- 🤝 Open to learning opportunities, collaboration, and feedback.
+## ⚡ Tech Stack
 
-## 🛠️ Skills & Tools
+<div align="center">
 
 ### Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript, TypeScript" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="HTML CSS JavaScript TypeScript icons" />
 
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code, Figma" />
-</p>
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git GitHub VS Code Figma icons" />
 
-### Design & Digital Marketing
-<p>
-  <img src="https://img.shields.io/badge/Canva-Design%20Tools-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/SEO-Learning-4285F4?style=flat-square&logo=google&logoColor=white" alt="SEO" />
-  <img src="https://img.shields.io/badge/Social%20Media-Marketing-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Social media marketing" />
-</p>
+### Design & Marketing
+<img src="https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+<img src="https://img.shields.io/badge/SEO-Learning-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
+<img src="https://img.shields.io/badge/Digital_Marketing-Creative-F97316?style=for-the-badge&logo=buffer&logoColor=white" alt="Digital marketing" />
 
-## 🚀 What I'm Working Toward
-
-My goal is to become a capable web developer who can build useful, accessible, and responsive web experiences. I’m continuing to strengthen my technical foundation, practice through projects, and learn from the developer community.
-
-## 📊 GitHub Overview
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=orjodasutshab&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orjodasutshab&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orjodasutshab&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </div>
 
-## 🤝 Connect With Me
+## 🚀 Current Focus
 
-<p>
-  <a href="mailto:orjodasutshab@gmail.com">Email</a> ·
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 Build</h3>
+      Practicing front-end development, responsive layouts, and clear user interfaces through hands-on projects.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Learn</h3>
+      Strengthening programming fundamentals, version control, troubleshooting, and digital marketing knowledge.
+    </td>
+  </tr>
+</table>
+
+## 📈 GitHub Dashboard
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=orjodasutshab&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0d1117" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orjodasutshab&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117" alt="Most used languages" />
+  <br />
+  <img width="80%" src="https://streak-stats.demolab.com?user=orjodasutshab&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
+</div>
+
+## 🌐 Find Me Online
+
+<div align="center">
+  <a href="https://github.com/orjodasutshab">GitHub</a> ·
   <a href="https://www.linkedin.com/in/orjodasutshab/">LinkedIn</a> ·
-  <a href="https://x.com/OrjoDasUtshab">X</a> ·
-  <a href="https://www.facebook.com/orjodasutshab/">Facebook</a> ·
-  <a href="https://www.instagram.com/orjodasutshab/">Instagram</a>
-</p>
-
----
+  <a href="mailto:orjodasutshab@gmail.com">Email</a>
+</div>
 
 <div align="center">
 
-*“Learn consistently. Build thoughtfully. Improve every day.”*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:06b6d4,70:1d4ed8,100:020617&height=100&section=footer" alt="Decorative gradient footer" />
+
+**“Learn consistently. Build thoughtfully. Improve every day.”** ✨
 
 </div>
