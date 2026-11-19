@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Header -->
+
 <a href="https://github.com/orjodasutshab">
   <img src="https://raw.githubusercontent.com/orjodasutshab/orjodasutshab/main/Banner.png" width="100%" alt="Orjo Das Utshab — Developer Banner" onerror="this.src='./Banner.png';" />
 </a>
