@@ -6,7 +6,7 @@
 </a>
 <br/>
 
-<!-- Animated Typing Text -->
+
 <a href="https://github.com/orjodasutshab">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+GitHub+World!;💻+Aspiring+Web+Developer;🛠️+IT+Support+Specialist;📈+Digital+Marketing+Enthusiast;🚀+Building+%26+Learning+Every+Single+Day!" alt="Typing SVG Animation" />
 </a>
